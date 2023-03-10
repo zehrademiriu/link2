@@ -8,6 +8,7 @@ A simple social media email checker that checks a bulk list of emails utilising 
 ### Current supported social media
 - Instagram
 - Twitter
+- Snapchat (NEWLY ADDED)
 
 ## Requirements & Setup
 The required language is Python, and pip libraries currently necessary is just `requests`.
@@ -24,6 +25,10 @@ The required language is Python, and pip libraries currently necessary is just `
 ## Recommendations
 I recommend you purchase HTTPS proxies from a site you trust, that way the proxies used are reliable.
 If you don't know anywhere you can purchase HTTPS proxies, you can from https://proxy.webshare.io for reliable and fast proxies.
+
+## Update Logs
+### 10 March, 2023
+- Added a snapchat checker for email checks. Uses an [unsecure api endpoint](https://github.com/JReverse/Snapchat-Email-Checker)
 
 ## Future Plans
 - Additional Social Medias
